@@ -1,0 +1,22 @@
+{
+  "name": "tupu4545",
+  "version": "1.0.0",
+  "description": "My npx card for you to get to know more about me :D",
+  "main": "card.js",
+  "bin": "./card.js",
+  "scripts": {
+    "test": "node card.js",
+    "pub": "npm version patch & npm publish",
+    "devStart": "node card.js"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4"
+  },
+  "keywords": [],
+  "author": "Tupu4545",
+  "license": "MIT"
+}
