@@ -68,17 +68,18 @@ const me = boxen(
         ``,
         
         `${data.labelDiscord}  ${data.discord}`,
+        `${data.labelWebsite}  ${data.website}`,
         `${data.labelTwitter}  ${data.twitter}`,
         `${data.labelGitHub}  ${data.github}`,
         ``,
         `${data.labelCard}  ${data.npx}`,
         ``,
         `${chalk.bold(
-            "Hi there! I'am Tupu4545 AKA Tupu and" 
+            "Hi there! I'am Tupu4545 AKA Tupu and I love Everything." 
         )}`,
-        `${chalk.bold("This is a 1st my npx card so don't complain LOL")}`,
+        `${chalk.bold("This is a 1st my npx card so don't complain LOL.")}`,
         `${chalk.bold(
-            "I will improve it in the future though LOL"
+            "I will improve it in the future though :)"
         )}`,
         `${chalk.bold(
             "If you find an issue with this card report it at:"
