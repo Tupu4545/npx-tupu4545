@@ -30,8 +30,6 @@ This is a project by [anmol singh.] This is simply my version of it for me.
  - If you're not logged in, then do `npm adduser`
  - Publish the pacakge `npm publish`
  - Run `npx your-pacakge-name`
-
-<iframe src="https://discord.com/widget?id=739792979321159691&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 [anmol singh.]: https://github.com/anmol098/npx_card
 [anmol singh's repo]: https://github.com/anmol098/npx_card
 [here]: https://github.com/anmol098/npx_card
