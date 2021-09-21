@@ -28,7 +28,7 @@ const questions = [
             {
                 name: `Join my ${chalk.bold("discord")} server?`,
                 value: () => {
-                    open("https://discord.gg/W2Q7zKj7B3");
+                    open("https://dsc.gg/tupu");
                     console.log("\nThanks for joining my community! :D\n");
                 }
             },
@@ -45,9 +45,9 @@ const questions = [
 const data = {
     name: chalk.bold.green("                     Tupu4545"),
     handle: chalk.white("@tupu4545"),
-    fact: chalk.hex('#B10000')('You\'re not the only one out there'),
+    fact: chalk.hex('#B10000')('People Still care for you :D'),
     twitter: chalk.hex('#00A1D9')("https://twitter.com/tupu4545"),
-    discord: chalk.hex('#ffac00')("https://discord.gg/W2Q7zKj7B3"),
+    discord: chalk.hex('#ffac00')("https://dsc.gg/tupu"),
     github: chalk.hex('#787878')("https://github.com/tupu4545"),
     website: chalk.hex('#00AB9E')("https://tupu4545.github.io"),
     npx: chalk.hex('#A1AB00')("npx tupu4545"),
@@ -77,9 +77,9 @@ const me = boxen(
         `${chalk.bold(
             "Hi there! I'am Tupu4545 AKA Tupu and I love Everything." 
         )}`,
-        `${chalk.bold("This is a 1st my npx card so don't complain LOL.")}`,
+        `${chalk.bold("t.me/tupu4545 I mean if you want to telegram me XD")}`,
         `${chalk.bold(
-            "I will improve it in the future though :)"
+            "BTW I am still a student so I am not free"
         )}`,
         `${chalk.bold(
             "If you find an issue with this card report it at:"

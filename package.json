@@ -1,6 +1,6 @@
 {
   "name": "tupu4545",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "My npx card for you to get to know more about me :D",
   "main": "card.js",
   "bin": "./card.js",
